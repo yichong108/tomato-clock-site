@@ -1,0 +1,4 @@
+:HL["/tomato-clock-site/_next/static/chunks/05omnnjbvzf56.css","style"]
+:HL["/tomato-clock-site/_next/static/chunks/02rj5yqlphcwo.css","style"]
+:HL["/tomato-clock-site/_next/static/media/feb57b2dc8f29018-s.p.13c9k6c3vhklu.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"kHNrSaT3CvmxWIp9WeItw"}
